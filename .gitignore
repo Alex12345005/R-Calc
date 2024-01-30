@@ -1,0 +1,33 @@
+# Abhängigkeitsverzeichnisse
+/node_modules
+
+# Build-Ausgabe
+/dist
+/build
+
+# Lokale Konfigurationsdateien
+/.env.local
+/.env.*.local
+
+# Log-Dateien
+/npm-debug.log*
+/yarn-debug.log*
+/yarn-error.log*
+
+# Editor-Verzeichnisse und -Dateien
+/.idea
+/.vscode
+*.swp
+*.swo
+
+# Betriebssystemdateien
+.DS_Store
+Thumbs.db
+
+# Lokale Netlify-Dateien
+/.netlify
+
+# Vue-CLI 3 logs
+/.vue-cli-ui
+/.vue-cli-ui.db
+/resistor-calculator/public
